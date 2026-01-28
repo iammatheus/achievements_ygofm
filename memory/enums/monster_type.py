@@ -1,0 +1,23 @@
+from enum import Enum
+
+class MonsterType(Enum):
+  DRAGON = "Dragon"
+  SPELLCASTER = "Spellcaster"
+  ZOMBIE = "Zombie"
+  WARRIOR = "Warrior"
+  BEAST_WARRIOR = "Beast-Warrior"
+  BEAST = "Beast"
+  WINGED_BEAST = "Winged-Beast"
+  FIND = "Fiend"
+  FAIRY = "Fairy"
+  INSECT = "Insect"
+  DINOSAUR = "Dinosaur"
+  REPTILE = "Reptile"
+  FISH = "Fish"
+  SEA_SERPENT = "SeaSerpent"
+  MACHINE = "Machine"
+  THUNDER = "Thunder"
+  AQUA = "Aqua"
+  PYRO = "Pyro"
+  ROCK = "Rock"
+  PLANT = "Plant"

@@ -1,7 +1,15 @@
-from .starchips_achievement_factory import starchips_achievement_factory
-from .rare_cards_achievement_factory import rare_cards_achievement_factory
+from .starchips_achievement_factory import (
+  ten_thousand_starchips_achievement,
+  fifty_thousand_starchips_achievement,
+  one_hundred_thousand_starchips_achievement,
+  five_hundred_thousand_starchips_achievement
+)
+from .secret_rare_cards_achievement_factory import secret_rare_cards_achievement_factory
 
 ALL_ACHIEVEMENTS_FACTORIES = [
-    starchips_achievement_factory,
-    rare_cards_achievement_factory,
+    ten_thousand_starchips_achievement,
+    fifty_thousand_starchips_achievement,
+    one_hundred_thousand_starchips_achievement,
+    five_hundred_thousand_starchips_achievement,
+    secret_rare_cards_achievement_factory,
 ]

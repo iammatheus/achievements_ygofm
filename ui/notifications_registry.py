@@ -1,15 +1,24 @@
+from enums.achievements_id import AchievementsIdEnum
+
 from ui import (
-    show_achievement,
-    show_rare_card_progress,
+    show_starchips_achievement,
+    show_secret_rare_card_progress_achievement,
 )
 
 NOTIFICATIONS = {
-    "star": {
-        "on_unlock": [show_achievement],
-        "on_progress": []
+    AchievementsIdEnum.TEN_THOUSAND_STARCHIPS: {
+        "on_unlock": [show_starchips_achievement],
     },
-    "rare": {
-        "on_unlock": [show_achievement],
-        "on_progress": [show_rare_card_progress]
+    AchievementsIdEnum.FIFTY_THOUSAND_STARCHIPS: {
+        "on_unlock": [show_starchips_achievement],
+    },
+    AchievementsIdEnum.ONE_HUNDRED_THOUSAND_STARCHIPS: {
+        "on_unlock": [show_starchips_achievement],
+    },
+    AchievementsIdEnum.FIVE_HUNDRED_THOUSAND_STARCHIPS: {
+        "on_unlock": [show_starchips_achievement],
+    },
+    AchievementsIdEnum.SECRET_RARE: {
+        "on_all": [show_secret_rare_card_progress_achievement]
     }
 }

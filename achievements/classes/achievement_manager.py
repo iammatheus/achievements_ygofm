@@ -1,5 +1,7 @@
 import json
 import os
+from enums.achievements_id import AchievementsIdEnum
+from .achievement_base import AchievementBase
 
 class AchievementManager:
     def __init__(self, achievements, notifications, save_file="memory/achievements.json"):
@@ -26,21 +28,43 @@ class AchievementManager:
                 f,
                 indent=2
             )
+    
+    def __run_notifications(self, key: AchievementsIdEnum, event: str, achievement: AchievementBase, extra=None):
+        config = self.notifications.get(key, {})
 
-    def check(self, key, value):
+        callbacks: function = (
+            config.get("on_all", []) +
+            config.get(event, [])
+        )
+
+        for fn in callbacks:
+            fn(achievement, extra)
+
+    def check(self, key: AchievementsIdEnum, value: int):
         ach = self.achievements.get(key)
+
         if not ach:
             return
 
         result = ach.check(value)
+
         if not result:
             return
 
-        for fn in self.notifications.get(key, {}).get("on_progress", []):
-            fn(ach, result["result"])
-
+        # desbloqueio
         if result["unlocked"]:
-            for fn in self.notifications.get(key, {}).get("on_unlock", []):
-                fn(ach)
+            self.__run_notifications(
+                key,
+                "on_unlock",
+                ach,
+            )
+
+        # progresso
+        self.__run_notifications(
+            key,
+            "on_progress",
+            ach,
+            result["result"]
+        )
 
         self.save()

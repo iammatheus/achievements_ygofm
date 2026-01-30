@@ -1,9 +1,9 @@
 from .notifier_achievement import (
-  show_achievement,
-  show_rare_card_progress
+  show_starchips_achievement,
+  show_secret_rare_card_progress_achievement
 )
 
 ALL_NOTIFICATIONS = [
-    show_achievement,
-    show_rare_card_progress,
+    show_starchips_achievement,
+    show_secret_rare_card_progress_achievement,
 ]

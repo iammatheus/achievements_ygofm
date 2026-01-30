@@ -1,5 +1,3 @@
 psutil==7.2.1
 Pymem==1.14.0
 winotify==1.1.0
-
-// TODO: CRIAR COMMIT 

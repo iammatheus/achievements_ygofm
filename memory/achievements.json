@@ -1,0 +1,17 @@
+{
+  "ten_thousand_starchips": {
+    "unlocked": true
+  },
+  "fifty_thousand_starchips": {
+    "unlocked": true
+  },
+  "one_hundred_thousand_starchips": {
+    "unlocked": true
+  },
+  "five_hundred_thousand_starchips": {
+    "unlocked": true
+  },
+  "secret_rare": {
+    "unlocked": false
+  }
+}

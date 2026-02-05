@@ -12,6 +12,7 @@
     "unlocked": true
   },
   "secret_rare": {
-    "unlocked": false
+    "unlocked": false,
+    "progress": [37, 7, 17, 18, 51, 52, 22, 56, 57, 28]
   }
 }

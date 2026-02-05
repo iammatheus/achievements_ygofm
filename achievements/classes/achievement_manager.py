@@ -4,7 +4,7 @@ from enums.achievements_id import AchievementsIdEnum
 from .achievement_base import AchievementBase
 
 class AchievementManager:
-    def __init__(self, achievements, notifications, save_file="memory/achievements.json"):
+    def __init__(self, achievements, notifications, save_file="memory/data/achievements.json"):
         self.achievements = {a.key: a for a in achievements}
         self.notifications = notifications
         self.save_file = save_file

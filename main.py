@@ -1,4 +1,4 @@
-import time, os
+import time
 
 from ui.notifications_registry import NOTIFICATIONS
 from achievements.factories import ALL_ACHIEVEMENTS_FACTORIES

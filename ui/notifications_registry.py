@@ -1,6 +1,6 @@
 from enums.achievements_id import AchievementsIdEnum
 
-from ui import (
+from .notifications import (
     show_starchips_achievement,
     show_secret_rare_card_progress_achievement,
 )

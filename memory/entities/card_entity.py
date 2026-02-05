@@ -15,6 +15,7 @@ class CardEntity:
   rarity: CardRarity
   isSingleDrop: bool # Se a carta dropa somente em um duelista.
 
+  image: Optional[str] = None
   type: Optional[MonsterType] = None
   ATK: Optional[int] = None
   DFD: Optional[int] = None

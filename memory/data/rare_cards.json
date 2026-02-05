@@ -44,7 +44,7 @@
   { "id": 369, "name": "Wall Shadow" },
   {
     "id": 374,
-    "name": "G:\\Programacao\\achievements_FM\\assets\\gg.jpg",
+    "name": "Gate Guardian",
     "image_icon": "G:\\Programacao\\achievements_FM\\assets\\gg.jpg"
   },
   { "id": 380, "name": "Blue-eyes Ultimate Dragon" },
@@ -79,7 +79,9 @@
   { "id": 711, "name": "Mikazukinoyaiba" },
   { "id": 715, "name": "Psycho-Puppet" },
   { "id": 716, "name": "Garma Sword" },
+  { "id": 718, "name": "Fortress Whale" },
   { "id": 717, "name": "Javelin Beetle" },
+  { "id": 718, "name": "Fortress Whale" },
   { "id": 719, "name": "Dokurorider" },
   { "id": 720, "name": "Mask of Shine & Dark" },
   { "id": 721, "name": "Dark Magic Ritual" },

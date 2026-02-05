@@ -1,0 +1,1 @@
+APP_ID: str = "Yu-Gi-Oh! Forbidden Memories"

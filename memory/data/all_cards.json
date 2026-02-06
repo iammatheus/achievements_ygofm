@@ -81,7 +81,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/winged_dragon_1.jpg"
   },
   {
     "id": 8,
@@ -201,7 +201,7 @@
     "DFD": "300",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/right_leg_of_the_forbidden_one.jpg"
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "DFD": "300",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/left_leg_of_the_forbidden_one.jpg"
   },
   {
     "id": 19,
@@ -261,7 +261,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/summoned_skull.jpg"
   },
   {
     "id": 23,
@@ -333,7 +333,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/rock_ogre_grotto_1.jpg"
   },
   {
     "id": 29,
@@ -441,7 +441,7 @@
     "DFD": "2100",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/gaia_the_dragon_champion.jpg"
   },
   {
     "id": 38,
@@ -609,7 +609,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/armored_lizard.jpg"
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@
     "DFD": "2000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/hercules_beetle.jpg"
   },
   {
     "id": 53,
@@ -669,7 +669,7 @@
     "DFD": "400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/larvae_moth.jpg"
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/great_moth.jpg"
   },
   {
     "id": 58,
@@ -717,7 +717,7 @@
     "DFD": "800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/great_white.jpg"
   },
   {
     "id": 61,
@@ -741,7 +741,7 @@
     "DFD": "1400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/harpie_lady.jpg"
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@
     "DFD": "2100",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/harpie_lady_sisters.jpg"
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@
     "DFD": "1100",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/tiger_axe.jpg"
   },
   {
     "id": 65,
@@ -801,7 +801,7 @@
     "DFD": "3000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/perfectly_ultimate_great_moth.jpg"
   },
   {
     "id": 68,
@@ -825,7 +825,7 @@
     "DFD": "2000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/thousand_dragon.jpg"
   },
   {
     "id": 70,
@@ -861,7 +861,7 @@
     "DFD": "2000",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/cocoon_of_evolution.jpg"
   },
   {
     "id": 73,
@@ -1101,7 +1101,7 @@
     "DFD": "1700",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/rabid_horseman.jpg"
   },
   {
     "id": 93,
@@ -2601,7 +2601,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/b_skull_dragon.jpg"
   },
   {
     "id": 218,
@@ -2817,7 +2817,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/wodan_the_resident_of_the_forest.jpg"
   },
   {
     "id": 236,
@@ -3021,7 +3021,7 @@
     "DFD": "900",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/nekogal_1.jpg"
   },
   {
     "id": 253,
@@ -3333,7 +3333,7 @@
     "DFD": "200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/petit_moth.jpg"
   },
   {
     "id": 279,
@@ -3405,7 +3405,7 @@
     "DFD": "900",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/tao_the_chanter.jpg"
   },
   {
     "id": 285,
@@ -3453,7 +3453,7 @@
     "DFD": "1400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/dark_artist.jpg"
   },
   {
     "id": 289,
@@ -3585,7 +3585,7 @@
     "DFD": "900",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/sonic_maid.jpg"
   },
   {
     "id": 300,
@@ -3813,7 +3813,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/elegant_egotist.jpg"
   },
   {
     "id": 319,
@@ -4173,7 +4173,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/swords_of_revealing_light.jpg"
   },
   {
     "id": 349,
@@ -4209,7 +4209,7 @@
     "DFD": "1500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/yaranzo.jpg"
   },
   {
     "id": 352,
@@ -4221,7 +4221,7 @@
     "DFD": "1400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/kanan_the_swordmistress.jpg"
   },
   {
     "id": 353,
@@ -4233,7 +4233,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/takriminos.jpg"
   },
   {
     "id": 354,
@@ -4245,7 +4245,7 @@
     "DFD": "900",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/stuffed_animal.jpg"
   },
   {
     "id": 355,
@@ -4257,7 +4257,7 @@
     "DFD": "1800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/megasonic_eye.jpg"
   },
   {
     "id": 356,
@@ -4269,7 +4269,7 @@
     "DFD": "2100",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/super_war_lion.jpg"
   },
   {
     "id": 357,
@@ -4281,7 +4281,7 @@
     "DFD": "1800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/yamadron.jpg"
   },
   {
     "id": 358,
@@ -4293,7 +4293,7 @@
     "DFD": "2300",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/seiyaryu.jpg"
   },
   {
     "id": 359,
@@ -4305,7 +4305,7 @@
     "DFD": "800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/three_legged_zombies.jpg"
   },
   {
     "id": 360,
@@ -4317,7 +4317,7 @@
     "DFD": "2300",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/zera_the_mant.jpg"
   },
   {
     "id": 361,
@@ -4329,7 +4329,7 @@
     "DFD": "1000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/flying_penguin.jpg"
   },
   {
     "id": 362,
@@ -4341,7 +4341,7 @@
     "DFD": "3000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/millennium_shield.jpg"
   },
   {
     "id": 363,
@@ -4353,7 +4353,7 @@
     "DFD": "1000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/fairys_gift.jpg"
   },
   {
     "id": 364,
@@ -4365,7 +4365,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/black_luster_soldier.jpg"
   },
   {
     "id": 365,
@@ -4377,7 +4377,7 @@
     "DFD": "1800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/fiends_mirror.jpg"
   },
   {
     "id": 366,
@@ -4425,7 +4425,7 @@
     "DFD": "3000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/wall_shadow.jpg"
   },
   {
     "id": 370,
@@ -4485,7 +4485,7 @@
     "DFD": "3400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": "assets/gate_guardian.jpg"
+    "image": "assets/optimized/gate_guardian.jpg"
   },
   {
     "id": 375,
@@ -4557,7 +4557,7 @@
     "DFD": "3800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": "assets/blue_eyes_ultimate_dragon.jpg"
+    "image": "assets/optimized/blue_eyes_ultimate_dragon.jpg"
   },
   {
     "id": 381,
@@ -5133,7 +5133,7 @@
     "DFD": "400",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/magician_of_faith.jpg"
   },
   {
     "id": 429,
@@ -5145,7 +5145,7 @@
     "DFD": "700",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/goddess_of_whim.jpg"
   },
   {
     "id": 430,
@@ -5865,7 +5865,7 @@
     "DFD": "600",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/barrel_lily.jpg"
   },
   {
     "id": 490,
@@ -5985,7 +5985,7 @@
     "DFD": "300",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/kattapillar.jpg"
   },
   {
     "id": 500,
@@ -6441,7 +6441,7 @@
     "DFD": "600",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/mega_thunderball.jpg"
   },
   {
     "id": 538,
@@ -6489,7 +6489,7 @@
     "DFD": "500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/hane_hane.jpg"
   },
   {
     "id": 542,
@@ -6537,7 +6537,7 @@
     "DFD": "1900",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/skelgon.jpg"
   },
   {
     "id": 546,
@@ -6645,7 +6645,7 @@
     "DFD": "1800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/lava_battleguard.jpg"
   },
   {
     "id": 555,
@@ -6657,7 +6657,7 @@
     "DFD": "1900",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/tyhone_2.jpg"
   },
   {
     "id": 556,
@@ -6741,7 +6741,7 @@
     "DFD": "600",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/needle_worm.jpg"
   },
   {
     "id": 563,
@@ -7233,7 +7233,7 @@
     "DFD": "1200",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/fairy_dragon.jpg"
   },
   {
     "id": 604,
@@ -7533,7 +7533,7 @@
     "DFD": "500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/witchs_apprentice.jpg"
   },
   {
     "id": 629,
@@ -7677,7 +7677,7 @@
     "DFD": "700",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/acid_crawler.jpg"
   },
   {
     "id": 641,
@@ -7725,7 +7725,7 @@
     "DFD": "450",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/flame_viper.jpg"
   },
   {
     "id": 645,
@@ -8001,7 +8001,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/gate_guardian_ritual.jpg"
   },
   {
     "id": 668,
@@ -8025,7 +8025,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/shadow_spell.jpg"
   },
   {
     "id": 670,
@@ -8037,7 +8037,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/black_luster_ritual.jpg"
   },
   {
     "id": 671,
@@ -8265,7 +8265,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/reverse_trap.jpg"
   },
   {
     "id": 690,
@@ -8349,7 +8349,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/javelin_beetle_pact.jpg"
   },
   {
     "id": 697,
@@ -8409,7 +8409,7 @@
     "DFD": "1850",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/performance_of_sword.jpg"
   },
   {
     "id": 702,
@@ -8421,7 +8421,7 @@
     "DFD": "1850",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/hungry_burger.jpg"
   },
   {
     "id": 703,
@@ -8433,7 +8433,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/sengenjin.jpg"
   },
   {
     "id": 704,
@@ -8445,7 +8445,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/skull_guardian.jpg"
   },
   {
     "id": 705,
@@ -8457,7 +8457,7 @@
     "DFD": "2350",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/tri_horned_dragon.jpg"
   },
   {
     "id": 706,
@@ -8469,7 +8469,7 @@
     "DFD": "2400",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/serpent_night_dragon.jpg"
   },
   {
     "id": 707,
@@ -8493,7 +8493,7 @@
     "DFD": "2450",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/cosmo_queen.jpg"
   },
   {
     "id": 709,
@@ -8505,7 +8505,7 @@
     "DFD": "2000",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/chakra.jpg"
   },
   {
     "id": 710,
@@ -8517,7 +8517,7 @@
     "DFD": "2500",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/crab_turtle.jpg"
   },
   {
     "id": 711,
@@ -8529,7 +8529,7 @@
     "DFD": "2350",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/mikazukinoyaiba.jpg"
   },
   {
     "id": 712,
@@ -8577,7 +8577,7 @@
     "DFD": "2350",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/psycho_puppet.jpg"
   },
   {
     "id": 716,
@@ -8589,7 +8589,7 @@
     "DFD": "2150",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/garma_sword.jpg"
   },
   {
     "id": 717,
@@ -8601,7 +8601,7 @@
     "DFD": "2550",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/javelin_beetle.jpg"
   },
   {
     "id": 718,
@@ -8613,7 +8613,7 @@
     "DFD": "2150",
     "rarity": "secret_rare",
     "isSingleDrop": false,
-    "image": ""
+    "image": "assets/optimized/fortress_whale.jpg"
   },
   {
     "id": 719,
@@ -8625,7 +8625,7 @@
     "DFD": "1850",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/dokurorider.jpg"
   },
   {
     "id": 720,
@@ -8637,7 +8637,7 @@
     "DFD": "1800",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/mask_of_shine_and_dark.jpg"
   },
   {
     "id": 721,
@@ -8649,7 +8649,7 @@
     "DFD": "",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/dark_magic_ritual.jpg"
   },
   {
     "id": 722,
@@ -8661,6 +8661,6 @@
     "DFD": "2600",
     "rarity": "secret_rare",
     "isSingleDrop": true,
-    "image": ""
+    "image": "assets/optimized/magician_of_black_chaos.jpg"
   }
 ]

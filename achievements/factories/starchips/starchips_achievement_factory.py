@@ -9,7 +9,7 @@ def starchips_achievement_factory(key: str, title: str, msg: str, condition: fun
     key=key,
     title=title,
     condition=condition,
-    msg=msg,
+    msg=msg
   )
 
 def ten_thousand_starchips_achievement():

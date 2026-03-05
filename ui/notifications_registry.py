@@ -3,6 +3,7 @@ from enums.achievements_id import AchievementsIdEnum
 from .notifications import (
     show_starchips_achievement,
     show_secret_rare_card_progress_achievement,
+    show_ultra_rare_card_progress_achievement,
 )
 
 NOTIFICATIONS = {
@@ -20,5 +21,8 @@ NOTIFICATIONS = {
     },
     AchievementsIdEnum.SECRET_RARE: {
         "on_all": [show_secret_rare_card_progress_achievement]
+    },
+    AchievementsIdEnum.ULTRA_RARE: {
+        "on_all": [show_ultra_rare_card_progress_achievement]
     }
 }

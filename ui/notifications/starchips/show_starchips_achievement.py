@@ -8,7 +8,7 @@ def show_starchips_achievement(achievement: AchievementBase, _):
         APP_ID,
         achievement.title,
         achievement.msg,
-        icon=Path("assets/starchip.png").resolve(),
+        icon=Path("assets/original/starchip.png").resolve(),
     )
     toast.set_audio(audio.SMS, loop=False)
     toast.show()

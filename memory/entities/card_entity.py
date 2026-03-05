@@ -13,8 +13,7 @@ class CardEntity:
   level: int
   cardType: CardType
   rarity: CardRarity
-  isSingleDrop: bool # Se a carta dropa somente em um duelista.
-
+  isSingleDrop: bool
   image: Optional[str] = None
   type: Optional[MonsterType] = None
   ATK: Optional[int] = None

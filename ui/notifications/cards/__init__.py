@@ -1,7 +1,9 @@
 from .show_secret_rare_card_progress_achievement import show_secret_rare_card_progress_achievement
 from .show_ultra_rare_card_progress_achievement import show_ultra_rare_card_progress_achievement
+from .show_rare_card_progress_achievement import show_rare_card_progress_achievement
 
 __all__ = [
   show_secret_rare_card_progress_achievement,
   show_ultra_rare_card_progress_achievement,
+  show_rare_card_progress_achievement,
 ]

@@ -7,3 +7,4 @@ class AchievementsIdEnum(str, Enum):
   FIVE_HUNDRED_THOUSAND_STARCHIPS = 'five_hundred_thousand_starchips'
   SECRET_RARE = 'secret_rare'
   ULTRA_RARE = 'ultra_rare'
+  RARE = 'rare'

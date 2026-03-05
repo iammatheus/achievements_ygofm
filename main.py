@@ -37,5 +37,6 @@ while True:
     # CARDS -> todo: separar em um arquivo futuramente
     manager.check(AchievementsIdEnum.SECRET_RARE, card)
     manager.check(AchievementsIdEnum.ULTRA_RARE, card)
+    manager.check(AchievementsIdEnum.RARE, card)
 
     time.sleep(1)

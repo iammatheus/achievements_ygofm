@@ -1,7 +1,9 @@
 from .secret_rare_cards_achievement_factory import secret_rare_cards_achievement_factory
 from .ultra_rare_cards_achievement_factory import ultra_rare_cards_achievement_factory
+from .rare_cards_achievement_factory import rare_cards_achievement_factory
 
 __all__ = [
   secret_rare_cards_achievement_factory,
   ultra_rare_cards_achievement_factory,
+  rare_cards_achievement_factory
 ]

@@ -7,7 +7,8 @@ from .starchips.starchips_achievement_factory import (
 
 from .cards import (
   secret_rare_cards_achievement_factory,
-  ultra_rare_cards_achievement_factory
+  ultra_rare_cards_achievement_factory,
+  rare_cards_achievement_factory,
 )
 
 ALL_ACHIEVEMENTS_FACTORIES = [
@@ -16,5 +17,6 @@ ALL_ACHIEVEMENTS_FACTORIES = [
   one_hundred_thousand_starchips_achievement,
   five_hundred_thousand_starchips_achievement,
   secret_rare_cards_achievement_factory,
-  ultra_rare_cards_achievement_factory
+  ultra_rare_cards_achievement_factory,
+  rare_cards_achievement_factory
 ]

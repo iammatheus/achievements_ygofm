@@ -9,14 +9,27 @@
     "unlocked": true
   },
   "five_hundred_thousand_starchips": {
-    "unlocked": false
+    "unlocked": true
   },
   "secret_rare": {
     "unlocked": false,
-    "progress": [28, 22]
+    "progress": [
+      28,
+      701,
+      22
+    ]
   },
   "ultra_rare": {
     "unlocked": false,
-    "progress": [19, 21]
+    "progress": [
+      19,
+      21
+    ]
+  },
+  "rare": {
+    "unlocked": false,
+    "progress": [
+      427
+    ]
   }
 }
